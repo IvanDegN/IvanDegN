@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Degtyannikov Ivan.
-- 👀 I’m interested in: CSS, HTML, JavaScript, React, NodeJS, Rudux.
+- 👀 I’m interested in: CSS, HTML, JavaScript, React, NodeJS, Redux.
 - 🌱 I’m currently learning adaptive layout and React.
 - 📫 How to reach me: https://vk.com/ycbivan or +7 (931) 299-97-64 (WhatsApp)
 
